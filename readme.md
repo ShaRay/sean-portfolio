@@ -16,3 +16,5 @@ To calculate line-height, take the line-height value and divide it by the font s
 
 ### Fonts
 
+font-family: 'Roboto', sans-serif;
+font-family: 'Inconsolata', monospace;

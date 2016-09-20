@@ -1,3 +1,8 @@
 body {
   font-family: 'Roboto', sans-serif;
 }
+
+.bg-img {
+  background-repeat: no-repeat;
+  background-image: url("../images/hero-bitmap.png");
+}

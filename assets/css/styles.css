@@ -6,3 +6,7 @@ body {
   background-repeat: no-repeat;
   background-image: url("../images/hero-bitmap.png");
 }
+
+.c-teak {
+  color: #B18D64;
+}

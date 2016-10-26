@@ -2,9 +2,9 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.bg-img {
+.bg-img-left {
   background-repeat: no-repeat;
-  background-image: url("../images/hero-bitmap.png");
+  background-position: left center;
 }
 
 .c-teak {
